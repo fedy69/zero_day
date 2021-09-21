@@ -1,1 +1,1 @@
-this is first git project 
+Starting to code today, so cool
